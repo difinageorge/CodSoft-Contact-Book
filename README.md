@@ -1,6 +1,6 @@
 # 📒 Contact Book (CodSoft Task 05)
 
-This project was completed as part of my **Python Programming Internship** at **CodSoft** (Task 05).
+This project was completed as part of my **Python Programming Internship** at **CodSoft** (Task 04).
 The objective of this task was to create a **Contact Book Application** that helps users store, manage, and organize contact details easily.
 
 ---
